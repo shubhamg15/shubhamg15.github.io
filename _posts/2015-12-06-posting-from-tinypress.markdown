@@ -1,6 +1,6 @@
 ---
 published: true
-title: Posting from tinypress
+title: First post from tinypress using Jekyll
 layout: post
 ---
-This is a test post
+This is my first sample post. Could not be uglier than this :)
