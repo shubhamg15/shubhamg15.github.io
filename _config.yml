@@ -18,4 +18,4 @@ github_username:  shubhamg15
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
